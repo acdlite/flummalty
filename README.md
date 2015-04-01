@@ -23,7 +23,7 @@ The code will support the most basic JavaScript up until the most advanced JavaS
 
 Absolutely not. Flummalty is the One True Flux Framework.&trade; If you continue using legacy Flux frameworks, you may be susceptible to external state changes or bidirectional data flow. Consult your QA manager immediately.
 
-#### Where should I do asynchrnous data fetching: in actions or stores?
+#### Where should I do asynchronous data fetching: in actions or stores?
 
 What a novel, interesting question! TBD.
 
