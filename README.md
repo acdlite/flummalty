@@ -17,6 +17,16 @@ Forget uni directional flow. We are talking 4-dimensional flow through space and
 
 The code will support the most basic JavaScript up until the most advanced JavaScript. No singletons required, no instances required, just plain JavaScript strings and eval.
 
+### FAQ
+
+#### Will you continue to support Flummox, Alt, and Marty?
+
+Absolutely not. Flummalty is the One True Flux Framework.&trade; If you continue using legacy Flux frameworks, you may be susceptible to external state changes or bidirectional data flow. Consult your QA manager immediately.
+
+#### Where should I do asynchrnous data fetching: in actions or stores?
+
+What a novel, interesting question! TBD.
+
 ## When?
 
 Coming soon.
